@@ -71,7 +71,7 @@ That suggests something important:
 
 `SQL Server` → `Power BI`
 
-📁 [View Day 01](./Day01/)
+📁 [View Day 01](https://github.com/oyenugatoluwalase3-sudo/30-day-analytics-challenge)
 
 ---
 
