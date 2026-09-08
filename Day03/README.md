@@ -32,7 +32,7 @@ A correlation of 0 would mean there is no relationship at all, so **0.04 is extr
 
 ## 📊 The Dashboard
 
-![Critics vs Cash Dashboard](dashboard/day03_critics_vs_cash.png)
+![Critics vs Cash Dashboard](dashboard/day03.png)
 
 The dashboard was built to answer a simple business question:
 
