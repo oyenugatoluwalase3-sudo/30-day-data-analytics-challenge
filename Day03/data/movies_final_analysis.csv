@@ -1,0 +1,75 @@
+Film,Genre,Lead Studio,Year,Worldwide Gross,Profitability,box_office,rt_score_omdb,metacritic_clean,imdb_rating,imdb_votes_clean,rated,runtime
+27 Dresses,Comedy,Fox,2008,160.308654,5.3436218,76808654,41.0,47.0,6.1,189264.0,PG-13,111 min
+(500) Days of Summer,Comedy,Fox,2009,60.72,8.096,32391374,86.0,76.0,7.6,613237.0,PG-13,95 min
+A Dangerous Method,Drama,Independent,2011,8.972895,0.44864475,5704709,78.0,76.0,6.4,111503.0,R,99 min
+A Serious Man,Drama,Universal,2009,30.68,4.382857143,9228768,89.0,88.0,7.0,155273.0,R,106 min
+Across the Universe,Romance,Independent,2007,29.367143,0.652603178,24602291,53.0,56.0,7.3,116796.0,PG-13,133 min
+Beginners,Comedy,Independent,2011,14.31,4.471875,5790894,86.0,81.0,7.2,96877.0,R,105 min
+Dear John,Drama,Sony,2010,114.97,4.5988,80014842,28.0,43.0,6.3,162831.0,PG-13,108 min
+Enchanted,Comedy,Disney,2007,340.487652,4.005737082,127807262,93.0,75.0,7.1,227480.0,PG,107 min
+Fireproof,Drama,Independent,2008,33.467,66.934,33456317,38.0,28.0,6.5,25430.0,PG,122 min
+Four Christmases,Comedy,Warner Bros.,2008,161.834,2.022925,120146040,24.0,41.0,5.7,88143.0,PG-13,88 min
+Ghosts of Girlfriends Past,Comedy,Warner Bros.,2009,102.22,2.0444,55250026,27.0,34.0,5.8,97521.0,PG-13,100 min
+Gnomeo and Juliet,Animation,Disney,2011,193.967,5.387972222,99967670,55.0,53.0,5.9,63154.0,G,84 min
+Going the Distance,Comedy,Warner Bros.,2010,42.05,1.3140625,17804299,54.0,51.0,6.3,60312.0,R,102 min
+Good Luck Chuck,Comedy,Lionsgate,2007,59.192128,2.36768512,35017297,5.0,19.0,5.6,98784.0,R,96 min
+He's Just Not That Into You,Comedy,Warner Bros.,2009,178.84,7.1536,93953653,42.0,47.0,6.4,193345.0,PG-13,129 min
+High School Musical 3: Senior Year,Comedy,Disney,2008,252.044501,22.91313646,90559416,64.0,57.0,5.0,70077.0,G,112 min
+I Love You Phillip Morris,Comedy,Independent,2010,20.1,1.34,2037459,71.0,65.0,6.6,102125.0,R,98 min
+It's Complicated,Comedy,Universal,2009,224.6,2.642352941,112735375,59.0,57.0,6.6,102721.0,R,120 min
+Jane Eyre,Romance,Universal,2011,30.147,,11242660,85.0,76.0,7.3,96381.0,PG-13,120 min
+Just Wright,Comedy,Fox,2010,21.569,1.797416667,21540363,47.0,51.0,5.9,16319.0,PG,100 min
+Killers,Action,Lionsgate,2010,93.4,1.245333333,47059963,10.0,21.0,5.5,99417.0,PG-13,100 min
+Knocked Up,Comedy,Universal,2007,219.001261,6.636401848,148768917,90.0,85.0,6.9,397384.0,R,129 min
+Leap Year,Comedy,Universal,2010,32.59,1.715263158,25918920,24.0,33.0,6.4,114391.0,PG,100 min
+Letters to Juliet,Comedy,Summit,2010,79.18,2.639333333,53032453,42.0,50.0,6.5,110435.0,PG,105 min
+License to Wed,Comedy,Warner Bros.,2007,69.307224,1.9802064,43799818,7.0,25.0,5.3,41460.0,PG-13,91 min
+Life as We Know It,Comedy,Independent,2010,96.16,2.530526316,53374681,29.0,39.0,6.5,143891.0,PG-13,114 min
+Love & Other Drugs,Comedy,Fox,2010,54.53,1.817666667,32367005,49.0,55.0,6.7,254566.0,R,112 min
+Love Happens,Drama,Universal,2009,36.08,2.004444444,22965110,17.0,33.0,5.7,35531.0,PG-13,109 min
+Made of Honor,Comedy,Sony,2008,105.962734,2.64906835,46012734,15.0,37.0,5.9,79838.0,PG-13,101 min
+Mamma Mia!,Comedy,Universal,2008,609.473955,9.234453864,144330569,54.0,51.0,6.5,301873.0,PG-13,108 min
+Marley and Me,Comedy,Fox,2008,206.073,3.746781818,143153751,64.0,53.0,7.0,173575.0,PG,115 min
+Midnight in Paris,Romance,Sony,2011,148.66,8.744705882,56817045,93.0,81.0,7.6,469474.0,PG-13,94 min
+Miss Pettigrew Lives for a Day,Comedy,Independent,2008,15.173694,0.2528949,12313694,77.0,63.0,7.0,29999.0,PG-13,92 min
+Monte Carlo,Romance,20th Century Fox,2011,39.664,1.9832,23186769,40.0,43.0,5.8,52058.0,PG,109 min
+Music and Lyrics,Romance,Warner Bros.,2007,145.896422,3.64741055,50572589,64.0,59.0,6.5,111234.0,PG-13,104 min
+My Week with Marilyn,Drama,The Weinstein Company,2011,8.258,0.8258,14600347,82.0,65.0,6.9,90863.0,R,99 min
+New Year's Eve,Romance,Warner Bros.,2011,142.04,2.536428571,54544638,7.0,22.0,5.6,91644.0,PG-13,118 min
+Nick and Norah's Infinite Playlist,Comedy,Sony,2008,33.527293,3.3527293,31487293,74.0,64.0,6.6,96430.0,PG-13,90 min
+No Reservations,Comedy,,2007,92.60105,3.307180357,43107979,42.0,50.0,6.3,82288.0,PG,104 min
+Not Easily Broken,Drama,Independent,2009,10.7,2.14,10572742,31.0,43.0,6.1,3460.0,PG-13,99 min
+One Day,Romance,Independent,2011,55.241,3.682733333,13843771,36.0,48.0,7.0,178441.0,PG-13,107 min
+Our Family Wedding,Comedy,Independent,2010,21.37,,20255281,15.0,38.0,5.1,7603.0,PG-13,103 min
+Over Her Dead Body,Comedy,New Line,2008,20.71,2.071,7563670,14.0,30.0,5.3,26171.0,PG-13,95 min
+P.S. I Love You,Romance,Independent,2007,153.093505,5.103116833,53706790,,39.0,7.0,224656.0,PG-13,126 min
+Penelope,Comedy,Summit,2008,20.741996,1.382799733,10011996,53.0,48.0,6.7,68029.0,PG,104 min
+Rachel Getting Married,Drama,Independent,2008,16.61,1.384166667,12796841,85.0,85.0,6.7,52070.0,R,113 min
+Remember Me,Drama,Summit,2010,55.86,3.49125,19068240,26.0,40.0,7.1,164536.0,PG-13,113 min
+Sex and the City,Comedy,Warner Bros.,2008,415.253258,7.221795791,152647258,49.0,53.0,5.7,132833.0,R,145 min
+Sex and the City 2,Comedy,Warner Bros.,2010,288.35,2.8835,95347692,16.0,27.0,4.5,87275.0,R,146 min
+She's Out of My League,Comedy,Paramount,2010,48.81,2.4405,32010860,57.0,46.0,6.4,150260.0,R,104 min
+Something Borrowed,Romance,Independent,2011,60.183,1.719514286,39046489,15.0,36.0,5.8,66160.0,PG-13,112 min
+Tangled,Animation,Disney,2010,355.08,1.365692308,200821936,89.0,71.0,7.7,540207.0,PG,100 min
+The Back-up Plan,Comedy,CBS,2010,77.09,2.202571429,37490007,18.0,34.0,5.3,54089.0,PG-13,104 min
+The Curious Case of Benjamin Button,Fantasy,Warner Bros.,2008,285.431,1.78394375,127509326,72.0,70.0,7.8,740633.0,PG-13,166 min
+The Duchess,Drama,Paramount,2008,43.305978,3.207850222,13848978,62.0,62.0,6.9,90188.0,PG-13,110 min
+The Heartbreak Kid,Comedy,Paramount,2007,127.76665,2.129444167,36787257,29.0,46.0,5.9,99742.0,R,116 min
+The Invention of Lying,Comedy,Warner Bros.,2009,32.4,1.751351351,18451251,56.0,58.0,6.4,155052.0,PG-13,100 min
+The Proposal,Comedy,Disney,2009,314.7,7.8675,163958031,45.0,48.0,6.8,393239.0,PG-13,108 min
+The Time Traveler's Wife,Drama,Paramount,2009,101.33,2.598205128,63414846,38.0,47.0,7.1,164989.0,PG-13,107 min
+The Twilight Saga: New Moon,Drama,Summit,2009,709.82,14.1964,298410482,28.0,44.0,4.8,320139.0,PG-13,130 min
+The Ugly Truth,Comedy,Independent,2009,205.3,5.402631579,88915214,14.0,28.0,6.4,240925.0,R,96 min
+Twilight,Romance,Summit,2008,376.661,10.18002703,195553813,48.0,56.0,5.4,522520.0,PG-13,122 min
+Twilight: Breaking Dawn,Romance,Independent,2011,702.17,6.383363636,281797623,25.0,45.0,4.9,271400.0,PG-13,117 min
+Tyler Perry's Why Did I get Married,Romance,Independent,2007,55.862886,3.7241924,55204525,48.0,54.0,6.0,14688.0,PG-13,113 min
+Valentine's Day,Comedy,Warner Bros.,2010,217.57,4.184038462,110528528,18.0,34.0,5.8,130072.0,PG-13,125 min
+Waiting For Forever,Romance,Independent,2011,0.025,0.005,25517,5.0,26.0,5.9,20262.0,PG-13,95 min
+Waitress,Romance,Independent,2007,22.179483,11.0897415,19074800,89.0,75.0,7.0,50248.0,PG-13,108 min
+WALL-E,Animation,Disney,2008,521.283432,2.896019067,223808164,95.0,95.0,8.4,1306354.0,G,98 min
+Water For Elephants,Drama,20th Century Fox,2011,117.094,3.081421053,58709717,60.0,52.0,6.9,123204.0,PG-13,120 min
+What Happens in Vegas,Comedy,Fox,2008,219.367646,6.267647029,80277646,25.0,36.0,6.1,191824.0,PG-13,99 min
+When in Rome,Comedy,Disney,2010,43.04,,32680633,16.0,25.0,5.5,66856.0,PG-13,91 min
+You Will Meet a Tall Dark Stranger,Comedy,Independent,2010,26.66,1.211818182,3248246,46.0,51.0,6.3,47889.0,R,98 min
+Youth in Revolt,Comedy,The Weinstein Company,2010,19.62,1.09,15281286,66.0,63.0,6.4,77777.0,R,90 min
+Zack and Miri Make a Porno,Romance,The Weinstein Company,2008,41.941,1.747541667,31457946,65.0,56.0,6.5,186351.0,R,101 min
