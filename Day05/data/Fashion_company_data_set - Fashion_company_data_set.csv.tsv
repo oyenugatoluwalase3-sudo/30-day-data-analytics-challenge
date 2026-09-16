@@ -1,0 +1,157 @@
+company_id	company_name	total_revenue	fashion_style	company_regions	company_operated_retail_stores	founding_year	country_of_origin	years	revenue
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2012	5260000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2013	6350000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2014	7680000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2015	9410000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2016	9900000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2017	10330000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2018	11970000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2019	12900000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2020	11220000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2021	12100000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2022	13120000000
+1	Uniqlo	10500000000	CASUAL WEAR	Uniqlo Japan, Uniqlo international, greater China, south-east Asia,India,Australia, North America, Europe.	175	1984	tokyo,Japan	company_revenue_2023	15830000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2012	1001000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2013	1370000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2014	1591000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2015	1797000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2016	2061000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2017	2344000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2018	2649000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2019	3288000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2020	3979000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2021	4402000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2022	6257000000
+2	Lululemon	3237500000	CASUAL WEAR.	Europe, Asia-pacific, North America.	62.41666667	1998	tokyo,Japan	company_revenue_2023	8111000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2012	15700000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2013	16100000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2014	16400000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2015	15800000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2016	15500000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2017	15900000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2018	16600000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2019	16400000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2020	13800000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2021	16700000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2022	15600000000
+3	Gap	15750000000	CASUAL WEAR	North America, International.	296.6666667	1969	California, USA.	company_revenue_2023	14900000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2012	4610000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2013	4680000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2014	4750000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2015	4490000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2016	4550000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2017	4900000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2018	5570000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2019	5760000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2020	4450000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2021	5760000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2022	6170000000
+4	Levi's	5155833333	CASUAL WEAR.	Americas, Europe, Asia, Middle East & Africa.	97.66666667	1853	California, USA.	company_revenue_2023	6180000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2012	3131550000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2013	3340380000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2014	3582000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2015	3370000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2016	3511000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2017	3893200000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2018	4150000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2019	4360000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2020	3700000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2021	4330000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2022	4610000000
+5	Tommy Hilfiger	3898177500	CASUAL WEAR	Europe, North America, South america, Asia-Pacific, Middle East, Africa, Latin America.	167.0833333	1985	New York, USA.	company_revenue_2023	4800000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2012	6860000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2013	6950000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2014	7450000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2015	7620000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2016	7410000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2017	6650000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2018	6180000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2019	6310000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2020	6160000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2021	4400000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2022	6220000000
+6	Ralph Lauren	6554166666	PREPPY	North America, Europe, Asia	47	1967	New York City, USA.	company_revenue_2023	6440000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2012	16400000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2013	17190000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2014	18290000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2015	20280000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2016	22030000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2017	22240000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2018	22050000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2019	22000000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2020	20150000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2021	21240000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2022	22420000000
+7	H&M	20583333333	FAST FASHION	Europe & Africa, Asia, Oceania & Africa, North & South America	364.0833333	1947	Västerås,Sweden.	company_revenue_2023	22240000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2012	20510000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2013	22220000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2014	24070000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2015	23190000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2016	25800000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2017	28600000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2018	30880000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2019	31660000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2020	23300000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2021	32800000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2022	34300000000
+8	Zara	28000000000	FAST FASHION	Europe, America,Asia and Oceania, Africa.	185.0833333	1974	A Coruña, Spain.	company_revenue_2023	38290000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2012	945000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2013	1016000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2014	1131000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2015	1286000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2016	1173000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2017	1176000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2018	1109100000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2019	1167600000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2020	1210300000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2021	1502800000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2022	1740000000
+9	Bottega Veneta	1258483333	MINIMALISM	Europe, North America, Asia-Pacific, Middle East,Latin America.	25.58333333	1966	Renzo Zengiaro, Italy.	company_revenue_2023	1645000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2012	3340000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2013	4470000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2014	4850000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2015	4010000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2016	3840000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2017	3430000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2018	3590000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2019	3620000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2020	2960000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2021	3820000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2022	4500000000
+10	Prada	3958333333	MINIMALISM	Europe, North America, South america, Asia-Pacific, Middle East, Africa	50.75	1913	Milan, Italy.	company_revenue_2023	5070000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	1032	1964	Oregon, USA.	company_revenue_2012	24550000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2013	26280000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2014	29750000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2015	31330000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2016	33510000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2017	34730000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2018	38090000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2019	40780000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2020	38250000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2021	46300000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2022	49100000000
+11	Nike	37000000000	ATHLEISURE	North America, Europe, MiddleEast, Africa, Greater China, Asia-Pacific, Latin America.	86	1964	Oregon, USA.	company_revenue_2023	51540000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2012	19370000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2013	19250000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2014	18710000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2015	18710000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2016	20860000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2017	24310000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2018	25800000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2019	26430000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2020	21950000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2021	24710000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2022	23640000000
+12	Adidas	22416666667	ATHLEISURE	Europe, North America, South america, Asia-Pacific, Middle East, Africa	155.25	1949	Herzogenaurach, Germany.	company_revenue_2023	25530000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2012	473000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2013	557000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2014	707000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2015	974000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2016	1220000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2017	1502000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2018	1743500000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2019	2049100000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2020	1744400000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2021	2521000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2022	3300000000
+13	Yves Saint Laurent	1664166667	CHIC	Europe, North America, Asia-Pacific, Middle East,Latin America.	26.5	1961	Pierre Bergé in France.	company_revenue_2023	3179000000
